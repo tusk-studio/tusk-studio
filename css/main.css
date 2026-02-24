@@ -670,7 +670,7 @@ h5 {
   }
 }
 
-.about-descr {
+.about-content .about-descr {
   text-align: justify;
   hyphens: auto;
 }
