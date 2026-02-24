@@ -669,3 +669,8 @@ h5 {
     top: 0;
   }
 }
+
+.about-descr {
+  text-align: justify;
+  hyphens: auto;
+}
