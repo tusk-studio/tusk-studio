@@ -670,7 +670,7 @@ h5 {
   }
 }
 
-.about-content .about-descr {
-  text-align: justify;
-  hyphens: auto;
+.about-descr {
+  max-width: 720px;
+  line-height: 1.7;
 }
