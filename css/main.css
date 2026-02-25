@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
 
 :root {
-  --primary-bg-color: #282828;
+  --primary-bg-color: #ffffff;
   --primary-accent: #0c1618;
   --secondary-accent: #6f1d1b;
 
@@ -29,11 +29,6 @@ body {
   color: var(--main-text-color);
   font-family: "Poppins", sans-serif;
   letter-spacing: -0.15px;
-  background-image: url("../img/BG-02.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
 .container {
